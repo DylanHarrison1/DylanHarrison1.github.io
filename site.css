@@ -215,8 +215,8 @@
 	.banner-title{
 		margin: 0 0px;
 	}
-	.banner-list{
-		margin: 0 80px;
+	#banner-list{
+		margin: 0 10px;
 	}
 	
 	.banner img {
