@@ -106,11 +106,11 @@
 		padding: 50px;
 	}
 
-	#services ul {
+	/*#services ul {
 		margin: 0;
 		padding: 0;
 		list-style: none;
-	}
+	}*/
 
 	#services li {
 		margin-bottom: 10px;
@@ -141,6 +141,7 @@
 		flex: 1;
 		max-width: 25%;
 		height: auto;
+		padding: 5px;
 	}
 	.profile {
 		flex: 1;
@@ -248,11 +249,11 @@
 		padding: 20px;
 	}
 	
-	#services ul {
+	/*#services ul {
 		margin: 0;
 		padding: 0;
 		list-style: none;
-	}
+	}*/
 	
 	#services li {
 		margin-bottom: 10px;
